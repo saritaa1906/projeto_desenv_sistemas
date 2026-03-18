@@ -52,4 +52,3 @@ Se o seu usuário ou senha do MySQL forem diferentes do padrão, altere as vari�
 
 ---
 
-> **Dica:** Para rodar o projeto, coloque os arquivos na pasta `htdocs` (XAMPP) ou `www` (WAMP) e acesse `localhost/nome-da-sua-pasta/index.php`.
